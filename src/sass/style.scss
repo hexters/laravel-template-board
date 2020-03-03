@@ -1,0 +1,9 @@
+body {
+  background-color: #f8fafc;
+}
+
+.toggle-notification {
+  &::after {
+    display: none;
+  }
+}
